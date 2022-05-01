@@ -11,9 +11,9 @@ Made with Ruby and [MiniGL](https://github.com/victords/minigl).
 `ruby src/main.rb`
 
 ## Screenshots
-<img src="screenshots/1.png" width="200">
-<img src="screenshots/2.png" width="200">
-<img src="screenshots/3.png" width="200">
+<img src="screenshots/1.png" width="400">
+<img src="screenshots/2.png" width="400">
+<img src="screenshots/3.png" width="400">
 
 ## Assets attribution
 - https://ansimuz.itch.io/warped-vehicles
