@@ -1,4 +1,4 @@
-# Data The Android
+# Willy The Android
 
 A 2D puzzle game.
 Made with Ruby and [MiniGL](https://github.com/victords/minigl).
