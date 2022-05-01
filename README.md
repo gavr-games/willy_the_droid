@@ -1,4 +1,4 @@
-# Willy The Android
+# Willy The Droid
 
 A 2D puzzle game.
 Made with Ruby and [MiniGL](https://github.com/victords/minigl).
